@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felex Kuria</h1>
 <h3 align="center">A passionate flutter developer from Kenya</h3>
+<h3 align="center">Am Currently Training at Emobilis as Full- Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felexkuria&label=Profile%20views&color=0e75b6&style=flat" alt="felexkuria" /> </p>
 
@@ -9,13 +10,13 @@
 
 - 🔭 I’m currently working on [Meme Kenya](https://github.com/felexkuria/meme_kenya)
 
-- 🌱 I’m currently learning **Flutter,Dart,Php,Html**
+- 🌱 I’m currently learning **Flutter,Dart,Php,Html,CSS,BOOTSTRAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/felexkuria](https://github.com/felexkuria)
 
-- 📝 I tried Vlogging about flutter on [https://www.youtube.com/channel/UCUWjYRjLM9xFJl8t-ZMwYvg](https://www.youtube.com/channel/UCUWjYRjLM9xFJl8t-ZMwYvg)
+- 📝 I will be video logging about what i have learned at Youtube[Multi-Touch Campus](https://www.youtube.com/channel/UCUWjYRjLM9xFJl8t-ZMwYvg)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter , Html ,Css , Php,MySql**
 
 - 📫 How to reach me **engineerfelex@gmail.com**
 
