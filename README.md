@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **engineerfelex@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1X_93HHgl52J_ivClfjJgm-Vc8ynV7Vr9/edit?usp=sharing&ouid=112538660781042732764&rtpof=true&sd=true](https://docs.google.com/document/d/1X_93HHgl52J_ivClfjJgm-Vc8ynV7Vr9/edit?usp=sharing&ouid=112538660781042732764&rtpof=true&sd=true)
+- 📄 Know about my experiences [Felex Portfolio](https://felexkuria.github.io/Felex_portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
