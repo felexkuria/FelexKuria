@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/felex_kuria" target="blank"><img src="https://img.shields.io/twitter/follow/felex_kuria?logo=twitter&style=for-the-badge" alt="felex_kuria" /></a> </p>
 
-- 🔭 I’m currently working on [Meme Kenya](https://github.com/felexkuria/meme_kenya)
+- 🔭 I’m currently Learning Html CSS BOOTSTRAP MYSQL PHP @ emobilis this is my [Class work](https://github.com/felexkuria/Net-Ninja)
 
 - 🌱 I’m currently learning **Flutter,Dart,Php,Html,CSS,BOOTSTRAP**
 
