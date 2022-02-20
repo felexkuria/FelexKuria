@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter,Dart,Php,Html,CSS,BOOTSTRAP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/felexkuria](https://github.com/felexkuria)
+- 👨‍💻 All of my projects/repository are available at [Here](https://github.com/felexkuria?tab=repositories)
 
 - 📝 I will be video logging about what i have learned at Youtube[Multi-Touch Campus](https://www.youtube.com/channel/UCUWjYRjLM9xFJl8t-ZMwYvg)
 
