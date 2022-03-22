@@ -11,6 +11,7 @@
 - 🔭 I’m currently Learning Html CSS BOOTSTRAP MYSQL PHP @ emobilis this is my [Class work](https://github.com/felexkuria/Net-Ninja)
 
 - 🌱 I’m currently learning **Flutter,Dart,Php,Html,CSS,BOOTSTRAP**
+- this is php class notes [here](https://github.com/felexkuria/Note-Taking/edit/master/Felex%20Life/Programming/Web/Backend/Language/Php/Php.md)
 
 - 👨‍💻 All of my projects/repository are available at [Here](https://github.com/felexkuria?tab=repositories)
 
