@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/felex_kuria" target="blank"><img src="https://img.shields.io/twitter/follow/felex_kuria?logo=twitter&style=for-the-badge" alt="felex_kuria" /></a> </p>
 
-- 🔭 I’m currently Learning Html CSS BOOTSTRAP MYSQL PHP @ emobilis this is my [Class work](https://github.com/felexkuria/Net-Ninja)
+-  📱 I'm Currently Learning **Flutter & Dart -The Complete Guide [2023 Edition]** on  [Udemy](https://www.udemy.com/share/101rfI3@AU71fr3SG4Owgg4Xrg7RWtSk8yqwGgforaJCETVFSOGqgVMfoHlYex3eXAYP_mbZ/)
+- 🔭 Previously Learning Html CSS BOOTSTRAP MYSQL PHP @ emobilis this is my [Class work](https://github.com/felexkuria/Net-Ninja)
 
 - 🌱 I’m currently learning **Flutter,Dart,Php,Html,CSS,BOOTSTRAP**
 - this is php class notes [here](https://github.com/felexkuria/Note-Taking/edit/master/Felex%20Life/Programming/Web/Backend/Language/Php/Php.md)
