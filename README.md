@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felex Kuria</h1>
 <h3 align="center">A passionate flutter developer from Kenya</h3>
-<h3 align="center">Am Currently Training at Emobilis as Full- Stack Developer </h3>
+<h3 align="center">Am Currently Training at AWS Cloud Practioner </h3>
+
+<h3 align="center">Trained  at Emobilis as Full- Stack Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felexkuria&label=Profile%20views&color=0e75b6&style=flat" alt="felexkuria" /> </p>
 
