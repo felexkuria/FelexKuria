@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felex Kuria</h1>
 <h3 align="center">A passionate flutter developer from Kenya</h3>
-<h3 align="center">Am Currently Training at AWS Cloud Practioner </h3>
+<h3 align="center"> Certified AWS Cloud Practioner </h3>
 
 <h3 align="center">Trained  at Emobilis as Full- Stack Developer </h3>
 
