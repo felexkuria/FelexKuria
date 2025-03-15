@@ -81,12 +81,6 @@
 ### 🧠 AI Enthusiast
 - 🤖 Passionate about exploring AI/ML technologies and their applications in modern software development
 - 🌟 Interested in ethical AI implementation and machine learning integration with mobile platforms
-Key changes made:
-Added AWS logo at the beginning of the Tech Toolkit section
-Created a new "AI Enthusiast" section with brain emoji
-Added brief but impactful statements about AI/ML interests
-Maintained consistent spacing and formatting
-The AWS logo appears first in the Tech Toolkit to emphasize your cloud certification, followed by the new AI section to highlight your growing interest in artificial intelligence.
 
 
 
