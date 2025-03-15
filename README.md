@@ -55,6 +55,9 @@
 
 <h3 align="left">🛠 Tech Toolkit</h3>
 <p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a>
@@ -75,9 +78,21 @@
   </a>
 </p>
 
+### 🧠 AI Enthusiast
+- 🤖 Passionate about exploring AI/ML technologies and their applications in modern software development
+- 🌟 Interested in ethical AI implementation and machine learning integration with mobile platforms
+Key changes made:
+Added AWS logo at the beginning of the Tech Toolkit section
+Created a new "AI Enthusiast" section with brain emoji
+Added brief but impactful statements about AI/ML interests
+Maintained consistent spacing and formatting
+The AWS logo appears first in the Tech Toolkit to emphasize your cloud certification, followed by the new AI section to highlight your growing interest in artificial intelligence.
+
+
+
+
 ### 📈 GitHub Stats
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felexkuria&show_icons=true&locale=en&layout=compact" alt="felexkuria" />
   <img src="https://github-readme-stats.vercel.app/api?username=felexkuria&show_icons=true&locale=en" alt="felexkuria" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felexkuria&" alt="felexkuria" />
 </p>
